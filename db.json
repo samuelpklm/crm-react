@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Duglanyela",
+      "empresa": "asdasdasdasd",
+      "email": "Como@gmail.com",
+      "telefono": "04127120934",
+      "notas": "asdasdasd",
+      "id": 2
+    }
+  ]
+}
